@@ -1,13 +1,5 @@
 {
-  "posts": [{
-    "audrius" : [
-      "val1" : "A123", 
-      "val2" : "A321",
-    ],
-    "petras" : [
-      "val1" : "P123", 
-      "val2" : "P321",
-    ]},
+  "posts": [
     {
       "id": 1,
       "title": "hello"
